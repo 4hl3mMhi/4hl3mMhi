@@ -1,4 +1,5 @@
-<h3 style="border-bottom:5px solid red">Hi 👋</h3>
+<h3>Hi 👋</h3>
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p>I'm a software developer who is passionate about creating technology to elevate people.
   I also love to learn new technologies about coding.</p>
