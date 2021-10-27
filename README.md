@@ -1,5 +1,4 @@
 <h2>Hi 👋</h2>
-<img src="https://user-images.githubusercontent.com/60432310/139075611-5be382e8-0897-4a66-b4da-334d1cb5c9d1.png">
 <p>I'm a software developer who is passionate about creating technology to elevate people.
   I also love to learn new technologies about coding.</p>
   
