@@ -1,4 +1,15 @@
-### Hi there 👋
+<h3>Hi there 👋</h3>
+
+<p>I'm a software developer who is passionate about creating technology to elevate people.
+  I also love to learn new technologies about coding.</p>
+  
+<h3>Technologies & Tools</h3>
+
+
+
+
+
+
 
 <!--
 **4hl3mMhi/4hl3mMhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
