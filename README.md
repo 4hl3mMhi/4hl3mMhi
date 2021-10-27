@@ -1,7 +1,9 @@
-<h3>Hi 👋</h3>
+<h2 align="center">Hi 👋</h2>
 <img src="https://user-images.githubusercontent.com/60432310/139075611-5be382e8-0897-4a66-b4da-334d1cb5c9d1.png">
 <p>I'm a software developer who is passionate about creating technology to elevate people.
   I also love to learn new technologies about coding.</p>
+  
+  
   
 <h3><img src="https://user-images.githubusercontent.com/60432310/139060900-4fe39c5b-5f72-4d9d-a42a-b3447144d8e3.png" alt="tools">
   Technologies & Tools :</h3>
