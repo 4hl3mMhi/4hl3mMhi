@@ -5,8 +5,8 @@
   
   
   
-<h3><img src="https://user-images.githubusercontent.com/60432310/139060900-4fe39c5b-5f72-4d9d-a42a-b3447144d8e3.png" alt="tools">
-  Technologies & Tools :</h3>
+<h2><img src="https://user-images.githubusercontent.com/60432310/139060900-4fe39c5b-5f72-4d9d-a42a-b3447144d8e3.png" alt="tools">
+  Technologies & Tools :</h2>
 <p><img src="https://user-images.githubusercontent.com/60432310/139066328-ce460b10-4c3e-4a2b-8454-d005354646a5.png">Python&emsp;
 <img src="https://user-images.githubusercontent.com/60432310/139066929-ecdef325-2d5e-426e-a841-29a16a19601c.png">Javascript&emsp;
 <img src="https://user-images.githubusercontent.com/60432310/139067227-c01d6632-89a9-452b-8b42-12216267268c.png">HTML5&emsp;
