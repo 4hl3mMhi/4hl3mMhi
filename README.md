@@ -5,7 +5,7 @@
   
 <h3><img src="https://user-images.githubusercontent.com/60432310/139060900-4fe39c5b-5f72-4d9d-a42a-b3447144d8e3.png" alt="tools">
   Technologies & Tools :</h3>
-  <img src="https://user-images.githubusercontent.com/60432310/139062952-818f1fab-fe19-4335-bab7-8ef7f158bbbc.png">
+  - <img src="https://user-images.githubusercontent.com/60432310/139064668-e3ace7ca-e3c2-4df3-8799-14ae8b667c39.png"> Linux
   <img src="https://user-images.githubusercontent.com/60432310/139064268-0b293d5b-241f-42c8-8aa3-413238bf8ea7.png">
 
 
