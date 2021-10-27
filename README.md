@@ -3,7 +3,7 @@
 <p>I'm a software developer who is passionate about creating technology to elevate people.
   I also love to learn new technologies about coding.</p>
   
-<h3>Technologies & Tools</h3>
+<h3>![image](https://user-images.githubusercontent.com/60432310/139060900-4fe39c5b-5f72-4d9d-a42a-b3447144d8e3.png) Technologies & Tools</h3>
 
 
 
