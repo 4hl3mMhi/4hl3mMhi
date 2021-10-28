@@ -1,4 +1,4 @@
-<h2>Hi 👋</h2>
+<h2>Hi, Devs 👋</h2>
 <p>I'm a software developer who is passionate about creating technology to elevate people.
   I also love to learn new technologies about coding.</p>
   
