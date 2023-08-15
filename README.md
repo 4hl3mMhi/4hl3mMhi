@@ -1,6 +1,5 @@
 <h2>Hi, Devs 👋</h2>
-<p>I'm a software developer who is passionate about creating technology to elevate people.
-  I also love to learn new technologies about coding.</p>
+<p>Senior Odoo developer who is passionate about customizing and creating Odoo apps while ensuring odoo best practices. With 7+ years' experience under my belt and always ready to go the extra mile to bring value to businesses.</p>
   
   
   
