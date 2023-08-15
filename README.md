@@ -1,6 +1,6 @@
 <h2>Hi, Devs 👋</h2>
 <p>Senior Odoo developer who is passionate about customizing and creating Odoo apps while ensuring odoo best practices.</p>
-<pWith 7+ years' experience under my belt and always ready to go the extra mile to bring value to businesses.</p>
+<p>With 7+ years' experience under my belt and always ready to go the extra mile to bring value to businesses.</p>
   
   
   
