@@ -1,5 +1,5 @@
 <h2>Hi, Devs 👋</h2>
-<p>Odoo Expert with 15+ years' experience, passionate about customizing and building Odoo apps while ensuring Odoo best practices.</p>
+<p>Odoo <strong>Expert with 15+ years'</strong> experience, passionate about customizing and building Odoo apps while ensuring Odoo best practices.</p>
 <p>Techno-functional at heart — comfortable across the stack, from Python/ORM and OWL/JS to XML views, QWeb, PostgreSQL, and Functional Analysis — always ready to go the extra mile to bring value to businesses.</p>
   
   
